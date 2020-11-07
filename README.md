@@ -17,7 +17,7 @@
 ### DATA: BEFORE & AFTER Screenshot
 ![](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/before_after.png)
 ### DEMO VIDEO
-[![]](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/demo_video.mp4)
+![](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/demo-video.gif)
 ### TOOLS USED
 - Key Python Libraries ( Pandas, Numpy, Matplotlib, re, Streamlit)
 - Other Python Libraries (Contractions, SpellCheckers)
