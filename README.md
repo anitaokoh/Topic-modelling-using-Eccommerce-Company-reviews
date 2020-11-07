@@ -13,8 +13,11 @@
 - Stored clean data in AWS s3 , read it into AWS comprehend for topic modeling and sentiment analysis and stored it back to S3
 - Discovered other python library for obvious spelling correction and expansion of English contractions e.g don’t == do not etc
 ### ARCHITECTURE
-### Data: BEFORE & AFTER Screen shoot
+![](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/architecture.png)
+### Data: BEFORE & AFTER Screenshot
+![](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/before_after.png)
 ### DEMO VIDEO
+![](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/demo_video.mp4)
 ### TOOLS USED
 - Key Python Libraries ( Pandas, Numpy, Matplotlib, re, Streamlit)
 - Other Python Libraries (Contractions, SpellCheckers)
