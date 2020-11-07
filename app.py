@@ -6,7 +6,7 @@ from PIL import Image
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # read image and data to variable and dataframe respectively
-img = Image.open("Data/app.png")
+img = Image.open("visuals/app.png")
 data = pd.read_csv('Data/final_data.csv')
 data = data[data['Sentiment'].isin(['NEGATIVE','POSITIVE'])]
 
