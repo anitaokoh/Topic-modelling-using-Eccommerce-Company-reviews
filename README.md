@@ -1,13 +1,15 @@
 # Topic modelling using Eccommerce Company reviews
 
-### Project Overview
+### PROJECT OVERVIEW
 **Goal:**
+
 **Companies reviews Used**
+
 **Data Source**
-### Key Milestone
+### KEY MILESTONE
 -
-### Architecture
+### ARCHITECTURE
 ### Data: BEFORE & AFTER Screen shoot
-### Demo Video
-### Tools Used
+### DEMO VIDEO
+### TOOLS USED
 -
