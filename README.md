@@ -1,15 +1,24 @@
 # Topic modelling using Eccommerce Company reviews
 
+__Imagestheme__
+
 ### PROJECT OVERVIEW
-**Goal:**
+**Goal:** Create a review topic app that allows users (customers or Company affiliate) to drill down reviews based on the review sentiments or priority score
 
-**Companies reviews Used**
+**Companies reviews Used:** The three ecommerce company reviews used are **Amazon,Zalando and Outfittery**
 
-**Data Source**
+**Data Source:** Reviews were scrapped from TrustPilot
 ### KEY MILESTONE
--
+- Scraped reviews from Trustpilot using Beautifulsoup
+- Stored clean data in AWS s3 , read it into AWS comprehend for topic modeling and sentiment analysis and stored it back to S3
+- Discovered other python library for obvious spelling correction and expansion of English contractions e.g don’t == do not etc
 ### ARCHITECTURE
 ### Data: BEFORE & AFTER Screen shoot
 ### DEMO VIDEO
 ### TOOLS USED
--
+- Key Python Libraries ( Pandas, Numpy, Matplotlib, re, Streamlit)
+- Other Python Libraries (Contractions, SpellCheckers)
+- AWS services (AWS S3, AWS Comprehend)
+- VS Code
+- Jupyter Notebook
+- UI APP powered by Streamlit
