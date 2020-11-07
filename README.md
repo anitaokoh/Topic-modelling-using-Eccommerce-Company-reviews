@@ -1,6 +1,6 @@
 # Topic modelling using Eccommerce Company reviews
 
-__Imagestheme__
+![](https://github.com/anitaokoh/reviews_topics/blob/main/visuals/app.png)
 
 ### PROJECT OVERVIEW
 **Goal:** Create a review topic app that allows users (customers or Company affiliate) to drill down reviews based on the review sentiments or priority score
